@@ -4,7 +4,7 @@ Googleサービス・LINE・AIを組み合わせ、日々の手作業を減ら�
 
 使う人が迷わず操作できる画面と、結果を確認・修正しやすい運用を大切にしています。
 
-[AIポートフォリオ](https://moedaichi0629-ai.github.io/landing-page/) · [デザイン作品](https://fori.io/rilymoe0902)
+[AIポートフォリオ](moedaichi0629-ai.github.io) · [デザイン作品](https://fori.io/rilymoe0902)
 
 ## 制作しているもの
 
